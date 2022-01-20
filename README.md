@@ -1,5 +1,5 @@
 # WhatsTheWeather
 
-Aplicatie realizata pe versiunea de Android Ore 8.1 ( API 27 ).
-Aceasta aplicatie va preciza cum este vremea dintr-o localitate introdusa intr-un editText.
-Pe partea de API am folosit API-ul de la "openweathermap" iar pentru preluarea datelor am folosit obiecte de tipul JSON.
+Application developed on the version of Android Ore 8.1 (API 27).
+This application will specify what the weather is like in a locality entered in an editText.
+On the API side, I used the "openweathermap" API and I used JSON objects to retrieve the data.
